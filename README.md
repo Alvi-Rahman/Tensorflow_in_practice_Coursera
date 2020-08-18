@@ -38,7 +38,7 @@ This second course teaches you advanced techniques to improve the computer visio
 
 #### Week 4: Multi-class Classifications
 
-- [Week 4 - Classifying images of sign languages.ipynb](https://github.com/Alvi-Rahman/Tensorflow_in_practice_Coursera/blob/master/2.%20Convolutional%20Neural%20Networks%20in%20TensorFlow/'Exercise_4_Multi_class_classifier_Question-FINAL.ipynb)
+- [Week 4 - Classifying images of sign languages](https://github.com/Alvi-Rahman/Tensorflow_in_practice_Coursera/blob/master/2.%20Convolutional%20Neural%20Networks%20in%20TensorFlow/'Exercise_4_Multi_class_classifier_Question-FINAL.ipynb)
 
 ## Course 3: Natural Language Processing in TensorFlow
 
@@ -46,22 +46,22 @@ In this third course, you’ll learn how to apply neural networks to solve natur
 
 #### Week 1: Sentiment in Text
 
-- [Week 1.1 - Detecting sarcasm in news headlines with LSTM and CNN.ipynb](https://github.com/ashishpatel26/Tensorflow-in-practise-Specialization/blob/master/3.%20Natural%20Language%20Processing%20in%20TensorFlow/Week%201.1%20-%20Detecting%20sarcasm%20in%20news%20headlines%20with%20LSTM%20and%20CNN.ipynb)
-- [Week 1.2 - Exploring BBC news data.ipynb](https://github.com/ashishpatel26/Tensorflow-in-practise-Specialization/blob/master/3.%20Natural%20Language%20Processing%20in%20TensorFlow/Week%201.2%20-%20Exploring%20BBC%20news%20data.ipynb)
+- [Week 1.1 - Detecting sarcasm in news headlines with LSTM and CNN](https://github.com/Alvi-Rahman/Tensorflow_in_practice_Coursera/blob/master/3.%20Natural%20Language%20Processing%20in%20TensorFlow/Week%201.1%20-%20Detecting%20sarcasm%20in%20news%20headlines%20with%20LSTM%20and%20CNN.ipynb)
+- [Week 1.2 - Exploring BBC news data](https://github.com/Alvi-Rahman/Tensorflow_in_practice_Coursera/blob/master/3.%20Natural%20Language%20Processing%20in%20TensorFlow/Week%201.2%20-%20Exploring%20BBC%20news%20data.ipynb)
 
 #### Week 2: Word Embeddings
 
-- [Week 2.1 - Classifying IMDB reviews data (Embedding + MLP).ipynb](https://github.com/ashishpatel26/Tensorflow-in-practise-Specialization/blob/master/3.%20Natural%20Language%20Processing%20in%20TensorFlow/Week%202.1%20-%20Classifying%20IMDB%20reviews%20data%20(Embedding%20%2B%20MLP).ipynb)
-- [Week 2.2 - Classifying BBC news into topics (Embedding + Conv + MLP).ipynb](https://github.com/ashishpatel26/Tensorflow-in-practise-Specialization/blob/master/3.%20Natural%20Language%20Processing%20in%20TensorFlow/Week%201.2%20-%20Exploring%20BBC%20news%20data.ipynb)
+- [Week 2.1 - Classifying IMDB reviews data (Embedding + MLP)](https://github.com/Alvi-Rahman/Tensorflow_in_practice_Coursera/blob/master/3.%20Natural%20Language%20Processing%20in%20TensorFlow/Week%202.1%20-%20Classifying%20IMDB%20reviews%20data%20(Embedding%20%2B%20MLP).ipynb)
+- [Week 2.2 - Classifying BBC news into topics (Embedding + Conv + MLP)](https://github.com/Alvi-Rahman/Tensorflow_in_practice_Coursera/blob/master/3.%20Natural%20Language%20Processing%20in%20TensorFlow/Week%202.2%20-%20Classifying%20BBC%20news%20into%20topics%20(Embedding%20%2B%20Conv%20%2B%20MLP).ipynb)
 
 #### Week 3: Sequence Models
 
-- [Week 3.1 - Classifying IMDB reviews (Embedding + Conv1D).ipynb](https://github.com/ashishpatel26/Tensorflow-in-practise-Specialization/blob/master/3.%20Natural%20Language%20Processing%20in%20TensorFlow/Week%203.1%20-%20Classifying%20IMDB%20reviews%20(Embedding%20%2B%20Conv1D).ipynb)
-- [Week 3.2 - Twitter sentiment classification (GloVe).ipynb](https://github.com/ashishpatel26/Tensorflow-in-practise-Specialization/blob/master/3.%20Natural%20Language%20Processing%20in%20TensorFlow/Week%203.2%20-%20Twitter%20sentiment%20classification%20(GloVe).ipynb)
+- [Week 3.1 - Classifying IMDB reviews (Embedding + Conv1D)](https://github.com/Alvi-Rahman/Tensorflow_in_practice_Coursera/blob/master/3.%20Natural%20Language%20Processing%20in%20TensorFlow/Week%203.1%20-%20Classifying%20IMDB%20reviews%20(Embedding%20%2B%20Conv1D).ipynb)
+- [Week 3.2 - Twitter sentiment classification (GloVe)](https://github.com/Alvi-Rahman/Tensorflow_in_practice_Coursera/blob/master/3.%20Natural%20Language%20Processing%20in%20TensorFlow/Week%203.2%20-%20Twitter%20sentiment%20classification%20(GloVe).ipynb)
 
 #### Week 4: Sequence Models and Literature
 
-- [Week 4 - Poem generation with Bi-directional LSTM.ipynb](https://github.com/ashishpatel26/Tensorflow-in-practise-Specialization/blob/master/3.%20Natural%20Language%20Processing%20in%20TensorFlow/Week%204%20-%20Poem%20generation%20with%20Bi-directional%20LSTM.ipynb)
+- [Week 4 - Poem generation with Bi-directional LSTM](https://github.com/Alvi-Rahman/Tensorflow_in_practice_Coursera/blob/master/3.%20Natural%20Language%20Processing%20in%20TensorFlow/Week%204%20-%20Poem%20generation%20with%20Bi-directional%20LSTM.ipynb)
 
 ## Course 4: Sequences, Time Series, and Prediction
 
@@ -69,18 +69,18 @@ In this fourth course, you will learn how to solve time series and forecasting p
 
 #### Week 1: Sequences and Prediction
 
-- [Week 1 - Create and predict synthetic data with time series decomposition.ipynb](https://github.com/ashishpatel26/Tensorflow-in-practise-Specialization/blob/master/4.%20Sequences%20and%20Prediction/Week%201%20-%20Create%20and%20predict%20synthetic%20data%20with%20time%20series%20decomposition.ipynb)
+- [Week 1 - Create and predict synthetic data with time series decomposition](https://github.com/Alvi-Rahman/Tensorflow_in_practice_Coursera/blob/master/4.%20Sequences%2C%20Time%20Series%20and%20Prediction/Week%201%20-%20Create%20and%20predict%20synthetic%20data%20with%20time%20series%20decomposition.ipynb)
 
 #### Week 2: Deep Neural Networks for Time Series
 
-- [Week 2.1 - Prepare features and labels.ipynb](https://github.com/ashishpatel26/Tensorflow-in-practise-Specialization/blob/master/4.%20Sequences%20and%20Prediction/Week%202.1%20-%20Prepare%20features%20and%20labels.ipynb)
-- [Week 2.2 - Predict synthetic data with Linear Regression.ipynb](https://github.com/ashishpatel26/Tensorflow-in-practise-Specialization/blob/master/4.%20Sequences%20and%20Prediction/Week%202.2%20-%20Predict%20synthetic%20data%20with%20Linear%20Regression.ipynb)
-- [Week 2.3 - Predict synthetic data with MLP.ipynb](https://github.com/ashishpatel26/Tensorflow-in-practise-Specialization/blob/master/4.%20Sequences%20and%20Prediction/Week%202.3%20-%20Predict%20synthetic%20data%20with%20MLP.ipynb)
+- [Week 2.1 - Prepare features and labels](https://github.com/Alvi-Rahman/Tensorflow_in_practice_Coursera/blob/master/4.%20Sequences%2C%20Time%20Series%20and%20Prediction/Week%202.1%20-%20Prepare%20features%20and%20labels.ipynb)
+- [Week 2.2 - Predict synthetic data with Linear Regression](https://github.com/Alvi-Rahman/Tensorflow_in_practice_Coursera/blob/master/4.%20Sequences%2C%20Time%20Series%20and%20Prediction/Week%202.2%20-%20Predict%20synthetic%20data%20with%20Linear%20Regression.ipynb)
+- [Week 2.3 - Predict synthetic data with MLP](https://github.com/Alvi-Rahman/Tensorflow_in_practice_Coursera/blob/master/4.%20Sequences%2C%20Time%20Series%20and%20Prediction/Week%202.3%20-%20Predict%20synthetic%20data%20with%20MLP.ipynb)
 
 #### Week 3: Recurrent Neural Networks for Time Series
 
-- [Week 3.1 - Finding an optimal learning rate for a RNN.ipynb](https://github.com/ashishpatel26/Tensorflow-in-practise-Specialization/blob/master/4.%20Sequences%20and%20Prediction/Week%203.1%20-%20Finding%20an%20optimal%20learning%20rate%20for%20a%20RNN.ipynb)
-- [Week 3.2 - LSTM.ipynb](https://github.com/ashishpatel26/Tensorflow-in-practise-Specialization/blob/master/4.%20Sequences%20and%20Prediction/Week%203.2%20-%20LSTM.ipynb)
+- [Week 3.1 - Finding an optimal learning rate for a RNN](https://github.com/Alvi-Rahman/Tensorflow_in_practice_Coursera/blob/master/4.%20Sequences%2C%20Time%20Series%20and%20Prediction/Week%203.1%20-%20Finding%20an%20optimal%20learning%20rate%20for%20a%20RNN.ipynb)
+- [Week 3.2 - LSTM](https://github.com/Alvi-Rahman/Tensorflow_in_practice_Coursera/blob/master/4.%20Sequences%2C%20Time%20Series%20and%20Prediction/Week%203.2%20-%20LSTM.ipynb)
 
 #### Week 4: Real-world Time Series Data
 
